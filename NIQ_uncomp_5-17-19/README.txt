@@ -1,7 +1,3 @@
-Please report any suggestions or bugs to NestIQHelp@gmail.com.
+To begin, run niq_core.py from the source_code directory.
 
-To begin, run NIQ_core.py from the source_code directory.
-
-
-
-NestIQ is a GUI opereated program that uses machine learning to analyze trends in data composed of regularly interspaced temeperatrue readings. An interactive plot and a descriptive statistics file are generated for provided input data.
+NestIQ is a GUI operated program that uses hidden Markov models and the Baum-Welch algorithm to identify and analyze trends in data composed of regularly interspaced temperature readings. Processing outputs include an configurable, interactive plot and a statistical summary of the trends identified.
